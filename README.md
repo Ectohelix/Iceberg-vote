@@ -4,9 +4,11 @@ Icicle themed vote system
 ---Required OBS plugins---
 
 1.) Source Copy - Used to Load The Scenes Easily
+
 https://obsproject.com/forum/resources/source-copy.1261/
 
 2.) Move transition - Used to Move the icicles
+
 https://obsproject.com/forum/resources/move-transition.913/
 
 ---Extracting Files---
