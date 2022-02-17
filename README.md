@@ -25,6 +25,9 @@ Configuration of Streamer.bot-
 
 1. Import the IcebergVote_Export JSON file into Streamer.bot
 2. Configure (on the Commands page, the below 3 commands):
+
 !askyn - Location: Start - Action: VoteQuestion - Allowed: Moderators/VIPs
+
 1 - Location: Exact - Action: Vote1 - Allowed: <blank = all>
+
 2 - Location: Exact - Action: Vote2 - Allowed: <blank = all>
